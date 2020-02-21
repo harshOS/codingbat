@@ -7,5 +7,3 @@ def diff21(n):
     return 2*(n-21)
   else:
     return 21 - n
-
-print(diff21(19))
