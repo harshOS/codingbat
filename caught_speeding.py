@@ -22,4 +22,4 @@ def caught_speeding(speed, is_birthday):
         else:
             return 2
 
-print(caught_speeding(65, True)
+print(caught_speeding(65, True) #Call
