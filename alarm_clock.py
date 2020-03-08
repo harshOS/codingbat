@@ -13,4 +13,4 @@ def alarm_clock(day, vacation):
   if day <= 5 and day != 0 : return '7:00'
   return '10:00'
 
-print(alarm_clock(0, False))
+print(alarm_clock(0, False))`
